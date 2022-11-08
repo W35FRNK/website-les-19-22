@@ -1,0 +1,36 @@
+footer {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  min-height: 200px;
+  border: solid black 1px;
+  /* justify-content: center;
+  align-items: center; */
+  padding: auto;
+  background-color: #383F51;
+  
+  
+}
+
+footer p {
+
+  font-size: .75rem;
+  padding: .2rem .5rem;
+  text-align: justify;
+  color: #fff;
+  
+}
+
+@media (max-width: 576px) {
+  
+  footer {
+    max-height: fit-content;
+  }
+  
+  footer p {
+    font-size: .5rem;
+    padding: none;
+  }
+}

@@ -1,0 +1,41 @@
+.message {
+  display: flex;
+  justify-content: center ;
+  align-items: center;
+  text-align: center;
+  padding: .5rem 2rem;
+  max-width: 95%;
+  border: solid black 1px;
+  margin: .5rem auto;
+  background-color: #DDDBF1;
+  border-radius: 3px;
+  
+}
+
+h1 {
+  color: #333;
+}
+
+.message p {
+  color: #333;
+  font-size: 1.2rem;
+}
+
+.col{
+  background-color: #383F51;
+  border: solid black 1px;
+  color:#fff;
+
+
+}
+
+@media (max-width: 576px) {
+  .message {
+    display: flex;
+    max-width: 100%;
+  }
+
+  .message p {
+  font-size: .75rem;
+  }
+}

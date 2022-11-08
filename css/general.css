@@ -1,0 +1,11 @@
+
+
+
+body {
+  min-height: 1200px;
+  position: relative;
+}
+
+.container-sm {
+  margin: .75rem 0;
+}
