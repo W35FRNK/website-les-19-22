@@ -2,8 +2,9 @@
 
 
 body {
-  min-height: 1200px;
+  min-height: 1000px;
   position: relative;
+  background-color: #bdc3c7;
 }
 
 .container-sm {
