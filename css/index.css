@@ -7,7 +7,7 @@
   max-width: 95%;
   border: solid black 1px;
   margin: .5rem auto;
-  background-color: #DDDBF1;
+  background-color: #c3d8cdaf;
   border-radius: 3px;
   
 }
@@ -24,7 +24,7 @@ h1 {
 
 
 .col-sm-4 {
-  background-color: #dddbf1cc;
+  background-color: #56876D;
   border: solid black 1px;
   justify-content: center;
   align-items: center;

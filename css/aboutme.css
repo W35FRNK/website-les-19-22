@@ -7,7 +7,7 @@
   max-width: 95%;
   border: solid black 1px;
   margin: .5rem auto;
-  background-color: #DDDBF1;
+  background-color: #C3D8CDAF;
   border-radius: 3px;
 
   
@@ -23,18 +23,18 @@ h2 {
 }
 
 .col-sm-8 {
-  background-color: #DDDBF1;
+  background-color: #8bb9a1;
   color: #333;
 }
 
 
 .col-sm-4 {
-  background-color: #3c4f7c;
+  background-color: #04724D;
   color: #fff;
 }
 
 .accordion-body {
-  color:#3c4f7c;
+  color:#56876D;
   background-color: #fff;
   
   margin-top: 5px;
