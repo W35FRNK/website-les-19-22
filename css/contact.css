@@ -1,6 +1,23 @@
 
 
+.message {
+  display: flex;
+  justify-content: center ;
+  align-items: center;
+  text-align: center;
+  padding: .5rem 2rem;
+  max-width: 95%;
+  border: solid black 1px;
+  margin: .5rem auto;
+  background-color: #C3D8CDAF;
+  border-radius: 3px;
 
+  
+}
+
+h2 {
+  color: #333;
+}
 
 
 
