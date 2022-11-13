@@ -41,6 +41,21 @@ h2 {
   
 }
 
+.accordion-button {
+  background-color:#8bb9a1 !important;
+}
+.accordion-button:not(.collapsed) {
+  color: #333 !important;
+  border-color: #333 !important;
+
+
+}
+
+.accordion-button,.collapsed {
+  color: #333 !important;
+  border-color: #333 !important;
+}
+
 
 
 
