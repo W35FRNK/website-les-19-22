@@ -3,7 +3,7 @@ footer {
   position: absolute;
   bottom: auto;
   min-height: 200px;
-  border: solid black 1px;
+  border: solid #333 1px;
   text-align: left;
   padding: .5rem;
   background-color: #333333;
@@ -14,11 +14,14 @@ footer {
 }
 
 footer p {
-
-  font-size: .75rem;
   padding: .2rem .5rem;
+  font-size: .75rem;
   text-align: left;
-    color: #fff;
+  color: #fff;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  align-self: center;
+
   
 }
 

@@ -2,10 +2,9 @@
 
 
 body {
-  min-height: 1000px;
   position: relative;
   background-color: #bdc3c7;
-  --bs-body-line-height: 1.4;
+  --bs-body-line-height: 1.2;
 }
 
 .container-sm {
